@@ -1,19 +1,20 @@
 var data = [
   //{ id: '', color: '#3f297e', text: 'ALL IN', ikon: 'invert_colors' },
+  { id: '', type: 'replay', color: '#881f7e', text: 'PLAY AGAIN', ikon: 'replay' },
   { id: '', type: 'allin', color: '#3f297e', text: 'Payung', ikon: 'grade' },
   { id: '', type: 'time', color: '#1d61ac', text: 'Belum </br> Beruntung' },
-  { id: '', color: '#be107f', text: 'Belum </br> Beruntung' },
   { id: '', type: 'quiz', color: '#169ed8', text: 'Note' },
   { id: '', color: '#be107f', text: 'Belum </br> Beruntung' },
   { id: '', type: 'quiz', color: '#209b6c', text: 'Mug' },
+  { id: '', color: '#be107f', text: 'Belum </br> Beruntung' },
+  { id: '', color: '#efe61f', text: 'Belum </br> Beruntung' },
   { id: '', color: '#60b236', text: 'Bantal', ikon: 'stars' },
+  { id: '', color: '#e5177b', text: 'Belum </br> Beruntung' },
   { id: '', color: '#efe61f', text: 'Goodybag' },
+  { id: '', color: '#e5177b', text: 'Belum </br> Beruntung' },
   { id: '', color: '#f7a416', text: 'Mousepad' },
   { id: '', type: 'time', color: '#e6471d', text: 'Belum </br> Beruntung'},
-  { id: '', type: 'question', color: '#dc0936', text: 'Kaos' },
-  { id: '', color: '#e5177b', text: 'Belum </br> Beruntung' },
-  { id: '', color: '#be107f', text: 'Belum </br> Beruntung' },
-  { id: '', type: 'replay', color: '#881f7e', text: 'PLAY AGAIN', ikon: 'replay' }
+  { id: '', color: '#e5177b', text: 'Belum </br> Beruntung' }
 ];
 
 var RouletteWheel = function(el, items){
