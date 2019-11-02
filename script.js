@@ -2,7 +2,7 @@ var data = [
   //{ id: '', color: '#3f297e', text: 'ALL IN', ikon: 'invert_colors' },
   { id: '', color: '#efe61f', text: 'Belum </br> Beruntung' },
   { id: '', type: 'replay', color: '#881f7e', text: 'PLAY AGAIN', ikon: 'replay' },
-  { id: '', type: 'time', color: '#1d61ac', text: 'Belum </br> Beruntung' },
+  { id: '', type: 'time', color: '#1d61ac', text: 'Mug' },
   { id: '', type: 'time', color: '#169ed8', text: 'Bantal' },
   { id: '', color: '#e5177b', text: 'Belum </br> Beruntung' },
   { id: '', color: '#be107f', text: 'Belum </br> Beruntung' },
