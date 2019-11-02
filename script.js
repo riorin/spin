@@ -1,19 +1,19 @@
 var data = [
   //{ id: '', color: '#3f297e', text: 'ALL IN', ikon: 'invert_colors' },
   { id: '', color: '#f7a416', text: 'Mousepad' },
-  { id: '', color: '#efe61f', text: 'Belum </br> Beruntung' },
+  { id: '', color: '#efe61f', text: 'Notes' },
   { id: '', type: 'replay', color: '#881f7e', text: 'PLAY AGAIN', ikon: 'replay' },
   { id: '', type: 'time', color: '#1d61ac', text: 'Mug' },
   { id: '', type: 'time', color: '#169ed8', text: 'Bantal' },
-  { id: '', color: '#e5177b', text: 'Belum </br> Beruntung' },
+  { id: '', color: '#e5177b', text: 'Goodybag' },
   { id: '', color: '#be107f', text: 'Belum </br> Beruntung' },
   { id: '', type: 'allin', color: '#3f297e', text: 'Notes', ikon: 'grade' },
-  { id: '', color: '#be107f', text: 'Belum </br> Beruntung' },
+  { id: '', color: '#be107f', text: 'Mousepad' },
   { id: '', color: '#efe61f', text: 'Goodybag' },
   { id: '', color: '#e5177b', text: 'Notes' },
   { id: '', color: '#60b236', text: 'Belum </br> Beruntung' },
   { id: '', color: '#e5177b', text: 'Payung', ikon: 'stars' },
-  { id: '', type: 'time', color: '#e6471d', text: 'Belum </br> Beruntung'},
+  { id: '', type: 'time', color: '#e6471d', text: 'Mousepad'},
   { id: '', color: '#e5177b', text: 'Kaos' }
 ];
 
