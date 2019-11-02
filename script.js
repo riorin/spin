@@ -14,7 +14,7 @@ var data = [
   { id: '', color: '#60b236', text: 'Ballpoint' },
   { id: '', color: '#e5177b', text: 'Mug', ikon: 'stars' },
   { id: '', type: 'time', color: '#e6471d', text: 'Mousepad'},
-  { id: '', color: '#e5177b', text: 'Kaos' }
+  { id: '', color: '#e5177b', text: 'Mug' }
 ];
 
 var RouletteWheel = function(el, items){
