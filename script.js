@@ -33,7 +33,7 @@ _.extend(RouletteWheel.prototype, Backbone.Events);
 RouletteWheel.prototype.spin = function(_index){
   
   var count = this.items.length;
-  var delta = 3800/count;
+  var delta = 3820/count;
   var index = !isNaN(parseInt(_index))? parseInt(_index) : parseInt(Math.random()*count);
       
   var a = index * delta + ((this._bis)? 1440 : -1440);
