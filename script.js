@@ -12,7 +12,7 @@ var data = [
   { id: '', color: '#efe61f', text: 'Goodybag' },
   { id: '', color: '#e5177b', text: 'Notes' },
   { id: '', color: '#60b236', text: 'Ballpoint' },
-  { id: '', color: '#e5177b', text: 'Payung', ikon: 'stars' },
+  { id: '', color: '#e5177b', text: 'Mug', ikon: 'stars' },
   { id: '', type: 'time', color: '#e6471d', text: 'Mousepad'},
   { id: '', color: '#e5177b', text: 'Kaos' }
 ];
