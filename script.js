@@ -7,7 +7,7 @@ var data = [
   { id: '', type: 'time', color: '#169ed8', text: 'Bantal' },
   { id: '', color: '#e5177b', text: 'Goodybag' },
   { id: '', color: '#be107f', text: 'Belum </br> Beruntung' },
-  { id: '', type: 'allin', color: '#3f297e', text: 'Payung', ikon: 'grade' },
+  { id: '', type: 'allin', color: '#3f297e', text: 'Notes', ikon: 'grade' },
   { id: '', color: '#be107f', text: 'Mug' },
   { id: '', color: '#efe61f', text: 'Goodybag' },
   { id: '', color: '#e5177b', text: 'Notes' },
